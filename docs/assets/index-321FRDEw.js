@@ -17518,7 +17518,11 @@ To suppress this warning, you need to explicitly provide the \`palette.${t}Chann
       questions: [],
       currentQuestion: 0,
       fetchQuestions: async () => {
-        const r = await (await fetch("../quiz.json")).json();
+        const r = await (
+          await fetch(
+            "https://cebrianalvaro9.github.io/Quiz-juego-de-tronos/quiz.json"
+          )
+        ).json();
         e({ questions: r.questions.sort(() => 0.5 - Math.random()) });
       },
       setCurrentQuestion: (n) => {
