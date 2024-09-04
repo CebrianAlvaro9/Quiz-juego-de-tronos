@@ -1,0 +1,91 @@
+{
+  "quizTitle": "Juego de Tronos Quiz",
+  "quizDescription": "Pon a prueba tus conocimientos sobre la famosa serie Juego de Tronos.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Quién es conocido como 'El Rey en el Norte' al comienzo de la serie?",
+      "options": ["Robb Stark", "Jon Snow", "Ned Stark", "Bran Stark"],
+      "answer": "Robb Stark"
+    },
+    {
+      "id": 2,
+      "question": "¿Qué familia tiene como lema 'Se acerca el invierno'?",
+      "options": ["Lannister", "Stark", "Baratheon", "Targaryen"],
+      "answer": "Stark"
+    },
+    {
+      "id": 3,
+      "question": "¿Quién fue el asesino del Rey Joffrey?",
+      "options": [
+        "Tyrion Lannister",
+        "Olenna Tyrell",
+        "Sansa Stark",
+        "Petyr Baelish"
+      ],
+      "answer": "Olenna Tyrell"
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es el nombre del dragón más grande de Daenerys Targaryen?",
+      "options": ["Rhaegal", "Viserion", "Drogon", "Balerion"],
+      "answer": "Drogon"
+    },
+    {
+      "id": 5,
+      "question": "¿Qué personaje es conocido como 'La Madre de Dragones'?",
+      "options": [
+        "Cersei Lannister",
+        "Arya Stark",
+        "Daenerys Targaryen",
+        "Margaery Tyrell"
+      ],
+      "answer": "Daenerys Targaryen"
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál es el nombre del acero mágico utilizado para matar a los Caminantes Blancos?",
+      "options": [
+        "Acero Valyrio",
+        "Acero del Norte",
+        "Acero de Braavos",
+        "Acero Negro"
+      ],
+      "answer": "Acero Valyrio"
+    },
+    {
+      "id": 7,
+      "question": "¿Quién mata a Stannis Baratheon en la serie?",
+      "options": [
+        "Jon Snow",
+        "Brienne de Tarth",
+        "Melisandre",
+        "Ramsay Bolton"
+      ],
+      "answer": "Brienne de Tarth"
+    },
+    {
+      "id": 8,
+      "question": "¿Qué criatura mitológica está en el emblema de la Casa Targaryen?",
+      "options": ["León", "Lobo Huargo", "Dragón", "Ciervo"],
+      "answer": "Dragón"
+    },
+    {
+      "id": 9,
+      "question": "¿Quién fue apodado 'El Perro'?",
+      "options": [
+        "Sandor Clegane",
+        "Gregor Clegane",
+        "Theon Greyjoy",
+        "Podrick Payne"
+      ],
+      "answer": "Sandor Clegane"
+    },
+    {
+      "id": 10,
+      "question": "¿Qué casa gobernaba en Dorne?",
+      "options": ["Casa Martell", "Casa Greyjoy", "Casa Tyrell", "Casa Arryn"],
+      "answer": "Casa Martell"
+    }
+  ]
+}
